@@ -16,8 +16,8 @@
 
 - 💻 **Flutter Developer** focused on building scalable and performant mobile apps.  
 - 🧠 Skilled in **Clean Architecture, MVVM, Dependency Injection, Firebase, and State Management**.  
-- 🚀 Currently improving expertise in **Supabase and advanced UI animations**.  
-- 💬 Open to collaboration and contributing to Flutter open-source projects.  
+- 💬 Open to collaboration and contributing to Flutter open-source projects.
+- 🚀 **Always learning and pushing boundaries to build smoother, smarter, and faster apps.**  
 
 ---
 
