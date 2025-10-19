@@ -1,56 +1,96 @@
-# 💻 Mohamed Salah Mahmoud  
+<h1 align="center">🔥 Welcome to Mohamed Salah's Coding Universe 🔥</h1>
 
-### 🚀 Flutter Developer | Mobile App Engineer  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Flutter+Developer;Building+High-Quality+Mobile+Apps!;Clean+Architecture+%7C+MVVM+%7C+Firebase+Expert" alt="Typing SVG">
+</p>
 
-📍 Port Said, Egypt  
-📧 [mohamedsalahdev2004@gmail.com](mailto:mohamedsalahdev2004@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-salah-415b77321/) | [GitHub](https://github.com/mohameddsalah60)
-
----
-
-## 🧠 About Me  
-
-I’m a passionate **Flutter Developer** who loves building fast, beautiful, and scalable mobile apps.  
-Focused on **Clean Architecture**, **State Management**, and creating pixel-perfect **UI/UX** experiences.  
-Always learning, improving, and exploring new technologies to craft modern, high-performance applications.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohameddsalah60&label=🔥+Profile+Views&color=ff4500&style=flat" alt="Profile views" />
+  <a href="https://github.com/mohameddsalah60"><img src="https://img.shields.io/github/followers/mohameddsalah60?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://www.linkedin.com/in/mohamed-salah-415b77321/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills  
+### 🌟 About Me
 
-**💡 Programming & Frameworks:**  
-`Dart` · `Flutter`  
-
-**⚙️ Mobile Development:**  
-`Bloc` · `Cubit` · `GetX` · `Clean Architecture` · `MVVM` · `Dependency Injection`  
-`Responsive Design` · `Animation` · `SOLID Principles` · `RESTful APIs`  
-
-**🔥 Backend & Services:**  
-`Firebase (Auth, Firestore, Cloud Functions, Storage)` · `Supabase`  
-`Local Databases (Hive, SQLite, SharedPreferences)`  
-
-**🧰 Tools:**  
-`Git` · `GitHub` · `Postman`  
-
-**💬 Personal Skills:**  
-Time Management · Problem Solving · Teamwork · Adaptability · Working Under Pressure  
-
-
-
-## 🌐 Languages  
-🇪🇬 Arabic (Native) | 🇬🇧 English (Professional)
+- 💻 **Flutter Developer** focused on building scalable and performant mobile apps.  
+- 🧠 Skilled in **Clean Architecture, MVVM, Dependency Injection, Firebase, and State Management**.  
+- 🚀 Currently improving expertise in **Supabase and advanced UI animations**.  
+- 💬 Open to collaboration and contributing to Flutter open-source projects.  
 
 ---
 
-### ⚡ Quick Stats  
+### ⚡ Tech Stack & Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohameddsalah60&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddsalah60&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-Hive-FF7F50?style=for-the-badge&logo=hive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Principles-SOLID-4CAF50?style=for-the-badge" />
+</p>
 
 ---
 
-### 💬 Connect with Me  
+### 🚀 Featured Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salah-415b77321/)  
-[![GitHub](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white)](https://github.com/mohameddsalah60)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedsalahdev2004@gmail.com)
+#### 🧾 [T Minder](https://github.com/mohameddsalah60/T-Minder)
+A **zone-based inventory and expiry reminder app** built with Flutter & Firebase.  
+- Smart notifications before product expiry  
+- Multi-user collaboration with role-based zones  
+**Tech:** Flutter · Firebase · Clean Architecture · MVVM · Notifications  
+
+#### 🏢 [Palace HR](https://github.com/mohameddsalah60/palace_hr)
+A **smart attendance and employee management system** using face recognition and GPS.  
+- Check-in/out via Face ID and Location  
+- Shift & leave management with admin dashboards  
+**Tech:** Flutter · Firebase · Supabase · Clean Architecture · MVVM  
+
+#### 🛍️ [E-Commerce App](https://github.com/mohameddsalah60/ecommerce_app)
+A responsive mobile shopping app with cart, auth, and order tracking.  
+**Tech:** Flutter · Firebase · REST APIs · Provider/Cubit  
+
+#### 🗒️ [Notes App](https://github.com/mohameddsalah60/notes_app)
+A **lightweight offline-first note-taking app** built with Hive.  
+**Tech:** Flutter · Hive · MVVM · SharedPreferences  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohameddsalah60&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddsalah60&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddsalah60&theme=radical&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-salah-415b77321/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamedsalahdev2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mohameddsalah60" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">⚡ Keep Building. Keep Learning. Keep Inspiring. ⚡</p>
