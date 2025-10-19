@@ -36,30 +36,6 @@
 
 ---
 
-### 🚀 Featured Projects  
-
-#### 🧾 [T Minder](https://github.com/mohameddsalah60/T-Minder)
-A **zone-based inventory and expiry reminder app** built with Flutter & Firebase.  
-- Smart notifications before product expiry  
-- Multi-user collaboration with role-based zones  
-**Tech:** Flutter · Firebase · Clean Architecture · MVVM · Notifications  
-
-#### 🏢 [Palace HR](https://github.com/mohameddsalah60/palace_hr)
-A **smart attendance and employee management system** using face recognition and GPS.  
-- Check-in/out via Face ID and Location  
-- Shift & leave management with admin dashboards  
-**Tech:** Flutter · Firebase · Supabase · Clean Architecture · MVVM  
-
-#### 🛍️ [E-Commerce App](https://github.com/mohameddsalah60/ecommerce_app)
-A responsive mobile shopping app with cart, auth, and order tracking.  
-**Tech:** Flutter · Firebase · REST APIs · Provider/Cubit  
-
-#### 🗒️ [Notes App](https://github.com/mohameddsalah60/notes_app)
-A **lightweight offline-first note-taking app** built with Hive.  
-**Tech:** Flutter · Hive · MVVM · SharedPreferences  
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
