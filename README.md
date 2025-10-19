@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Mohamed Salah's 👋</h1>
+<h1 align="center">Hi , I'm Mohamed Salah 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Flutter+Developer;Building+High-Quality+Mobile+Apps!;Clean+Architecture+%7C+MVVM+%7C+Firebase+Expert" alt="Typing SVG">
