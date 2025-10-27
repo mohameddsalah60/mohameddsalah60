@@ -14,10 +14,10 @@
 
 ### 🌟 About Me
 
-- 💻 **Flutter Developer** focused on building scalable and performant mobile apps.  
-- 🧠 Skilled in **Clean Architecture, MVVM, Dependency Injection, Firebase, and State Management**.  
-- 💬 Open to collaboration and contributing to Flutter open-source projects.
-- 🚀 **Always learning and pushing boundaries to build smoother, smarter, and faster apps.**  
+I’m a Flutter developer who loves building mobile apps that run smoothly and look great.
+I enjoy writing clean code and creating solutions that are simple, efficient, and easy to scale.
+I’ve worked with Firebase, APIs, and different state management tools, and I’m always trying to learn something new.
+My goal is to keep getting better at what I do and be part of projects that actually make a difference.
 
 ---
 
