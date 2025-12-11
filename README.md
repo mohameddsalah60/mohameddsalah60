@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohameddsalah60&label=🔥+Profile+Views&color=ff4500&style=flat" alt="Profile views" />
-  <a href="https://github.com/mohameddsalah60"><img src="https://img.shields.io/github/followers/mohameddsalah60?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="https://www.linkedin.com/in/mohamed-salah-415b77321/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
